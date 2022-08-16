@@ -22,8 +22,10 @@ python manage.py runserver
 npm i
 
 npm start
+```
 
-For deploying
+## For deploying
 
+```sh
 npm run build
-
+```
