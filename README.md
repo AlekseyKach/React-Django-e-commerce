@@ -1,8 +1,14 @@
 # React-Django-e-commerce
-Internet shop
+ _Internet shop_
 
 
-This repository contains a Django and React ecommerce project. Among other functionality, users can create their account, add items to their cart and purchase those items using credit card.
+## This repository contains a Django and React ecommerce project.
+
+_functionality_
+
+- users can create their account (register) 
+- users can add items to their cart
+- users can purchase items in the cart using credit card
 
 ## Backend development workflow
 
